@@ -1,2 +1,2 @@
 # pythonProjectStackX
-# these are some exercises using the repetition comand IF.
+# Aqui temos alguns exercícios utilizando os comandos de repetição IF, FOR e WHILE.
